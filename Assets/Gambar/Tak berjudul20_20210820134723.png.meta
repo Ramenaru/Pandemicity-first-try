@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 6b63b819407a15743947cdc6c9ca3654
+timeCreated: 1630590304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tak berjudul20_20210820134723_0
+    21300002: Tak berjudul20_20210820134723_1
+    21300004: Tak berjudul20_20210820134723_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tak berjudul20_20210820134723_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 27
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120.6225, y: 36.927498}
+        - {x: 94.6225, y: 81.9275}
+        - {x: 79.6225, y: 94.9275}
+        - {x: 48.622498, y: 114.9275}
+        - {x: 26.622498, y: 120.9275}
+        - {x: -35.377502, y: 120.9275}
+        - {x: -78.3775, y: 97.9275}
+        - {x: -108.3775, y: 61.927498}
+        - {x: -117.3775, y: 48.927498}
+        - {x: -120.3775, y: 29.927498}
+        - {x: -120.3775, y: -35.072502}
+        - {x: -111.3775, y: -63.072502}
+        - {x: -68.3775, y: -107.0725}
+        - {x: -33.377502, y: -120.0725}
+        - {x: 36.622498, y: -120.0725}
+        - {x: 78.6225, y: -98.0725}
+        - {x: 106.6225, y: -66.0725}
+        - {x: 120.6225, y: -31.072502}
+    - name: Tak berjudul20_20210820134723_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 29
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121.51251, y: -28.207504}
+        - {x: 121.51251, y: 27.792496}
+        - {x: 116.51251, y: 51.792496}
+        - {x: 90.51251, y: 91.792496}
+        - {x: 40.512512, y: 121.792496}
+        - {x: -29.487488, y: 121.792496}
+        - {x: -67.48749, y: 106.792496}
+        - {x: -94.48749, y: 81.792496}
+        - {x: -120.48749, y: 38.792496}
+        - {x: -120.48749, y: -34.207504}
+        - {x: -98.48749, y: -81.207504}
+        - {x: -59.487488, y: -109.207504}
+        - {x: -33.487488, y: -119.207504}
+        - {x: -27.487488, y: -120.207504}
+        - {x: 27.512512, y: -120.207504}
+        - {x: 42.512512, y: -117.207504}
+        - {x: 85.51251, y: -92.207504}
+        - {x: 112.51251, y: -57.207504}
+    - name: Tak berjudul20_20210820134723_2
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 33
+        width: 336
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.05005, y: 36.0225}
+        - {x: 92.05005, y: 81.0225}
+        - {x: 73.05005, y: 99.0225}
+        - {x: 32.05005, y: 115.0225}
+        - {x: -40.94995, y: 115.0225}
+        - {x: -95.94995, y: 79.0225}
+        - {x: -113.94995, y: 37.0225}
+        - {x: -114.94995, y: 33.0225}
+        - {x: -114.94995, y: -29.9775}
+        - {x: -111.94995, y: -47.9775}
+        - {x: -98.94995, y: -67.9775}
+        - {x: -58.94995, y: -103.9775}
+        - {x: -36.94995, y: -112.9775}
+        - {x: -31.949951, y: -113.9775}
+        - {x: 31.050049, y: -113.9775}
+        - {x: 73.05005, y: -97.9775}
+        - {x: 99.05005, y: -67.9775}
+        - {x: 115.05005, y: -28.9775}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
